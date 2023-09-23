@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Poppins&display=swap');
+
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(251, 251, 251);
+}
+
+
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#birthdayWish {
+    font-family: 'Baloo Bhai 2', cursive;
+
+    font-size: 4rem;
+    color: rgb(204, 147, 25);
+
+}
+
+#birthdayLine {
+
+    font-family: 'Poppins', sans-serif;
+
+    font-size: 2rem;
+    color: rgb(237, 77, 104);
+
+}
